@@ -9,7 +9,7 @@ resource "aws_instance" "Terra-instance" {
   key_name      = "ubuntukey"  # Replace with your key pair name
 
   tags = {
-    name = "Ec2-terraform-Instance"
+    Name = "Ec2-terraform-Instance"
   }
 
 }
