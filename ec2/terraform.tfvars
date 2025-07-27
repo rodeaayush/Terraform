@@ -1,0 +1,5 @@
+ami           = "ami-0d0ad8bb301edb745"
+key_name      = "ubuntukey"
+instance_name = "my-terraform-instance"
+region        = "ap-south-1"
+instance_type = "t2.micro"
